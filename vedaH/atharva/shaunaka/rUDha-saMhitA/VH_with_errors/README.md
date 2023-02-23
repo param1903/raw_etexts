@@ -1,0 +1,1 @@
+Review: [this page](https://vishvAsa.github.io/atharva/shaunakam/rUDha-saMhitA/pATha-bhedAH/)

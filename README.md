@@ -13,6 +13,10 @@ A repository containing important raw texts (some non-proofread). Processed (eg:
 - Initialize submodules if needed: `git submodule update --init --recursive --depth 1`
 - Update submodules if needed: `git submodule foreach "(git checkout master; git pull --depth 1)&"`
 
+### Generating a catalog
+- On linux: `./make_catalog.sh`
+
+
 ## Contribution
 - Fork this repo and send pull requests.
 - Raise issues.
