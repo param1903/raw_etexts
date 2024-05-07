@@ -18,6 +18,7 @@
 	path = mixed/gretil_wujastyk
 	url = https://github.com/wujastyk/GRETIL-mirror.git
 	update = merge
+	branch = main
 [submodule "mixed/gretil-skt"]
 	path = mixed/gretil-skt
 	url = https://github.com/sanskrit/GRETIL-mirror.git
@@ -112,15 +113,11 @@
 	branch = content
 [submodule "mixed/vv_ebook_pub"]
 	path = mixed/vv_ebook_pub
-	url = https://github.com/sanskrit-coders/book-pub.git
+	url = https://github.com/vishvAsa/book-pub.git
 [submodule "vedaH/mishram/vvasuki.github.io_static"]
 	path = mixed/vishvAsa/vedAH/static
 	url = https://github.com/vishvAsa/vedAH.git
 	branch = static_files
-[submodule "kalpaH/shrautam/mattUru-shrauta-book.github.io"]
-	path = kalpaH/shrautam/mattUru-shrauta-book.github.io
-	url = https://github.com/sanskrit/mattUru-shrauta-book.git
-	branch = content
 [submodule "kalpaH/AgamaH/vishvAsa.github.io"]
 	path = mixed/vishvAsa/AgamaH/content
 	url = https://github.com/vishvAsa/AgamaH.git
@@ -241,4 +238,20 @@
 [submodule "mixed/vishvAsa/purANam/vaiShNavam/static"]
 	path = mixed/vishvAsa/purANam/vaiShNavam/static
 	url = https://github.com/vishvAsa/purANam_vaiShNavam.git
+	branch = static_files
+[submodule "mixed/vishvAsa/purANam/vaiShNavam/rAmAyaNam"]
+	path = mixed/vishvAsa/purANam/vaiShNavam/rAmAyaNam
+	url = https://github.com/vishvAsa/rAmAyaNam.git
+	branch = content
+[submodule "mixed/vishvAsa/purANam/vaiShNavam/mahAbhAratam/static"]
+	path = mixed/vishvAsa/purANam/vaiShNavam/mahAbhAratam/static
+	url = https://github.com/vishvAsa/mahAbhAratam.git
+	branch = static_files
+[submodule "mixed/vishvAsa/purANam/vaiShNavam/mahAbhAratam/content"]
+	path = mixed/vishvAsa/purANam/vaiShNavam/mahAbhAratam/content
+	url = https://github.com/vishvAsa/mahAbhAratam.git
+	branch = content
+[submodule "mixed/vishvAsa/AgamaH/vaiShNavam/static"]
+	path = mixed/vishvAsa/AgamaH/vaiShNavam/static
+	url = https://github.com/vishvAsa/AgamaH_vaiShNavaH.git
 	branch = static_files
